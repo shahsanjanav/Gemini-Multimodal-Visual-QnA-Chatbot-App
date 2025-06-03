@@ -59,4 +59,4 @@ if uploaded_file and api_key:
                 st.write("Full error log:")
                 st.exception(e)
 else:
-    st.info("Please upload an image and ensure the Gemini API key is setup in the Streamlit Cloud secrets.")
+    st.info("Please upload an image and ensure the Gemini API key is setup in the Streamlit Cloud Secrets.")
