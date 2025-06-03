@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 3. Run the app
 ```bash
-streamlit run app.py
+streamlit run Gemini_visual_qna_app.py
 ```
 
 ### 4. API Key
@@ -60,7 +60,8 @@ MIT License © 2025 Sanjana Shah
 
 **Sanjana Shah**  
 ✨ Machine Learning & Generative AI Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/sanjanavshah)
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/sanjanavshah)
+GitHub: [@shahsanjanav](https://github.com/shahsanjanav)
 
 ---
 
