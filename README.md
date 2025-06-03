@@ -12,6 +12,16 @@ An interactive **Streamlit app** that uses **Google Gemini Pro** (`gemini-1.5-fl
 
 ---
 
+## 📸 App Demo
+
+### 1. Uploading an Image
+![App UI](screenshots/App UI.png)
+
+### 2. Gemini's Response
+![Response Demo](screenshots/App UI with Gemini response.png)
+
+---
+
 ## 🛠️ How to Run Locally
 
 ### 1. Clone the repository
