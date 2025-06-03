@@ -33,7 +33,7 @@ uploaded_file = st.file_uploader("Upload an image (PNG, JPG, JPEG)", type=["png"
 if uploaded_file and api_key:
     try:
         image = Image.open(uploaded_file)
-        st.image(image, caption="Uploaded Image", use_column_width=True)
+        st.image(image, caption="Uploaded Image", use_container_width=True)
     except UnidentifiedImageError:
         st.error("❌ The uploaded file is not a valid image. Please upload a PNG, JPG, or JPEG.")
         st.stop()
