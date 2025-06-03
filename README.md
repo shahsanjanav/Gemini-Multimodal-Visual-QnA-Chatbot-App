@@ -15,10 +15,10 @@ An interactive **Streamlit app** that uses **Google Gemini Pro** (`gemini-1.5-fl
 ## 📸 App Demo
 
 ### 1. Uploading an Image
-![App UI](Screenshots/App UI.png)
+![App UI](screenshots/app_ui.png)
 
 ### 2. Gemini's Response
-![Response Demo](Screenshots/App UI with Gemini response.png)
+![Response Demo](screenshots/app_ui_gemini_response.png)
 
 ---
 
