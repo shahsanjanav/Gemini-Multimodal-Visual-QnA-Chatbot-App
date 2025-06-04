@@ -4,6 +4,11 @@ An interactive **Streamlit app** powered by **Google Gemini 1.5 Flash** for **vi
 
 ---
 
+## 🔗 Live App
+👉 [Launch App](https://gemini-multimodal-visual-qna-chatbot-app.streamlit.app)
+
+---
+
 ## 🚀 Features
 - 📷 Upload image files (JPEG, PNG)
 - 💬 Ask any question about the image (e.g., "Summarize in 5 bullet points")
