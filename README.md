@@ -1,6 +1,6 @@
 # 📊 Gemini Multimodal Visual QnA Chatbot App
 
-An interactive **Streamlit app** that uses **Google Gemini Pro** (`gemini-1.5-flash`) to perform **visual question answering**. Upload any image (balance sheet, KPI chart, report, etc.), ask natural language questions, and receive smart structured responses from Gemini.
+An interactive **Streamlit app** powered by **Google Gemini 1.5 Flash** for **visual question answering**. Upload any image (e.g., charts, infographics, financial reports) and ask natural language questions to receive structured responses from Gemini.
 
 ---
 
